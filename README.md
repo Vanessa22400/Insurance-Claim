@@ -1,4 +1,4 @@
-# Insurance Risk Analytics: Cost Drivers, Risk Segmentation and Predictive Modeling  
+# Insurance Claim Risk Analytics: Cost Drivers, Risk Segmentation and Predictive Modeling  
 *Understanding healthcare cost dynamics and identifying high-risk cases using data analytics and machine learning.*
 
 **Dataset:** Health Insurance Dataset (1,338 individuals)  
@@ -120,7 +120,7 @@ Main drivers:
 
 ### Claim Risk Modeling (Classification)
 
-A binary variable was created to identify high-cost cases (top 20%).
+A binary variable was created to identify individuals with higher likelihood of generating high-cost claims.
 
 Models used:
 
@@ -157,7 +157,7 @@ Key finding:
 
 ## Key Insights
 
-- **Smoking is the strongest cost driver**  
+- **Smoking is the strongest cost driver**and a key factor associated with high-cost claims.
 - Risk factors **accumulate and amplify costs**  
 - A small group of individuals generates a disproportionate share of expenses  
 - Predictive models can estimate costs and identify high-risk cases  
@@ -192,4 +192,24 @@ Key finding:
 ---
 
 ## Repository Structure
+
+.
+├── data
+│ └── insurance.csv
+├── notebooks
+│ └── Insurance_Risk_Analytics.ipynb
+├── images
+│ └── Healthcare_Cost_Dashboard.png
+├── requirements.txt
+└── README.md
+
+
+---
+
+## Conclusion
+
+This project shows how data analysis and predictive modeling can support better understanding of healthcare cost dynamics and risk patterns.
+
+By combining multiple analytical approaches, it becomes possible to move from descriptive insights to more structured and actionable decision-making in an insurance context.
+
 
