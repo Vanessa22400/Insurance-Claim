@@ -1,4 +1,4 @@
-# Insurance Claim Risk Analytics: Cost Drivers, Risk Segmentation and Predictive Modeling  
+# Insurance Claim Analytics: Cost Drivers, Risk Segmentation and Predictive Modeling  
 *Understanding healthcare cost dynamics and identifying high-risk cases using data analytics and machine learning.*
 
 **Dataset:** Health Insurance Dataset (1,338 individuals)  
