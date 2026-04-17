@@ -3,7 +3,7 @@
 
 **Dataset:** Health Insurance Dataset (1,338 individuals)  
 **Techniques:** SQL analysis, exploratory data analysis (EDA), risk segmentation, K-Means clustering, causal inference (Propensity Score Matching), predictive modeling (Linear Regression & Random Forest), classification modeling, threshold tuning.  
-**Key Insight:** Smoking is the strongest cost driver, increasing healthcare costs by approximately **$23,500 per individual per year (~4x higher costs)** and playing a central role in high-cost claim risk.
+**Key Insight:** Smoking is the strongest cost driver, increasing healthcare costs by approximately **$23,500 per individual per year** (~4x higher costs) and playing a central role in high-cost claim risk.
 
 ---
 
