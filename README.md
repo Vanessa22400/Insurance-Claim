@@ -15,7 +15,7 @@ An interactive application based on this project was also developed using Stream
 This project focuses on how data analytics can support decision-making in an insurance context, particularly in understanding cost drivers and identifying high-risk claims.
 
 It is part of a broader analytical exploration.  
-A complementary project extends this analysis toward **preventive strategies and health outcomes**, building on the risk insights identified here.
+A complementary project extends this analysis toward [preventive strategies and health outcomes](https://github.com/Vanessa22400/Preventive_Health_Analytics), building on the risk insights identified here. 
 
 ---
 
