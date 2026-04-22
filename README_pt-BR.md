@@ -31,6 +31,12 @@ Para tornar a análise mais acessível, foi criada uma aplicação interativa qu
 Acesse:  
 https://github.com/Vanessa22400/insurance_risk_prediction_simulator/tree/main
 
+<p align="center">
+  <img src="Images/app_preview.png" width="40%" />
+
+  <img src="Images/app_preview3.png" width="40%" />
+</p>
+
 ---
 
 ## Contexto de Negócio
@@ -47,6 +53,7 @@ O projeto busca responder questões como:
 - Como esses custos se distribuem entre os indivíduos?  
 - Quem tem maior probabilidade de gerar sinistros elevados?  
 - Como modelos analíticos podem apoiar decisões mais informadas?  
+
 
 ---
 
@@ -176,7 +183,10 @@ O threshold padrão (0.5) apresentou o melhor equilíbrio entre precisão e reca
 - fatores de risco se acumulam e ampliam os gastos  
 - uma parcela reduzida da população concentra grande parte dos custos  
 - modelos preditivos conseguem estimar custos e identificar risco com boa performance  
-- a aplicação dos modelos é tão relevante quanto sua construção  
+- a aplicação dos modelos é tão relevante quanto sua construção
+
+
+![Dashboard](Images/Healthcare_Cost_Dashboard.png)
 
 ---
 
